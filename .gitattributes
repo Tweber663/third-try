@@ -1,2 +1,5 @@
-/dist/* linguist-language=HTML
-/dist/*.css linguist-language=CSS
+# Force HTML for files in the dist folder
+/dist/** linguist-language=HTML
+
+# Force CSS for CSS files in the dist folder
+/dist/**/*.css linguist-language=CSS
