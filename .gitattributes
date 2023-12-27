@@ -1,2 +1,3 @@
 index.html linguist-language=HTML
 style.css linguist-language=CSS
+dist/* linguist-language=JavaScript
